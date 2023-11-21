@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Poket_Notes_1/static/css/main.96f607d4.css",
+    "main.js": "/Poket_Notes_1/static/js/main.e5fa4222.js",
+    "static/media/image-removebg-preview 1.png": "/Poket_Notes_1/static/media/image-removebg-preview 1.051c5dd6cf08bd17366f.png",
+    "index.html": "/Poket_Notes_1/index.html",
+    "main.96f607d4.css.map": "/Poket_Notes_1/static/css/main.96f607d4.css.map",
+    "main.e5fa4222.js.map": "/Poket_Notes_1/static/js/main.e5fa4222.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96f607d4.css",
+    "static/js/main.e5fa4222.js"
+  ]
+}
